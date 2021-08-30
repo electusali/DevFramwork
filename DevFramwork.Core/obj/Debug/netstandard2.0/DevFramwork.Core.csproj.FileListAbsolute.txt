@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\bin\Debug\netstandard2.0\DevFramwork.Core.deps.json
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\bin\Debug\netstandard2.0\DevFramwork.Core.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\obj\Debug\netstandard2.0\DevFramwork.Core.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\obj\Debug\netstandard2.0\DevFramwork.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\obj\Debug\netstandard2.0\DevFramwork.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\bin\Debug\netstandard2.0\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\obj\Debug\netstandard2.0\DevFramwork.Core.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\bin\Debug\netstandard2.0\DevFramwork.Core.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\obj\Debug\netstandard2.0\DevFramwork.Core.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\obj\Debug\netstandard2.0\DevFramwork.Core.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Core\obj\Debug\netstandard2.0\DevFramwork.Core.csproj.CoreCompileInputs.cache

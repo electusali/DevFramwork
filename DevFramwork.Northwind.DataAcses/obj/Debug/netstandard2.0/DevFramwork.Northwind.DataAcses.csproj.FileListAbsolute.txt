@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\bin\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.deps.json
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\bin\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\bin\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\bin\Debug\netstandard2.0\DevFramwork.Core.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\bin\Debug\netstandard2.0\DevFramwork.Northwind.Entities.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\bin\Debug\netstandard2.0\DevFramwork.Core.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\bin\Debug\netstandard2.0\DevFramwork.Northwind.Entities.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\obj\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\obj\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\obj\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\obj\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\obj\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\obj\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.DataAcses\obj\Debug\netstandard2.0\DevFramwork.Northwind.DataAcses.csproj.CoreCompileInputs.cache

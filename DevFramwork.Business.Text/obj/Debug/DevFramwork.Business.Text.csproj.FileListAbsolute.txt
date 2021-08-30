@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\bin\Debug\DevFramwork.Business.Text.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\bin\Debug\DevFramwork.Business.Text.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\obj\Debug\DevFramwork.Business.Text.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\obj\Debug\DevFramwork.Business.Text.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\obj\Debug\DevFramwork.Business.Text.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\obj\Debug\DevFramwork.Business.Text.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Business.Text\obj\Debug\DevFramwork.Business.Text.pdb

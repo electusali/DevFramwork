@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\bin\Debug\netstandard2.0\DevFramwork.Northwind.Entities.deps.json
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\bin\Debug\netstandard2.0\DevFramwork.Northwind.Entities.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\bin\Debug\netstandard2.0\DevFramwork.Northwind.Entities.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\bin\Debug\netstandard2.0\DevFramwork.Core.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\bin\Debug\netstandard2.0\DevFramwork.Core.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\obj\Debug\netstandard2.0\DevFramwork.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\obj\Debug\netstandard2.0\DevFramwork.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\obj\Debug\netstandard2.0\DevFramwork.Northwind.Entities.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\obj\Debug\netstandard2.0\DevFramwork.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\obj\Debug\netstandard2.0\DevFramwork.Northwind.Entities.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\obj\Debug\netstandard2.0\DevFramwork.Northwind.Entities.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Entities\obj\Debug\netstandard2.0\DevFramwork.Northwind.Entities.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Busiines\bin\Debug\netstandard2.0\DevFramwork.Northwind.Busiines.deps.json
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Busiines\bin\Debug\netstandard2.0\DevFramwork.Northwind.Busiines.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Busiines\bin\Debug\netstandard2.0\DevFramwork.Northwind.Busiines.pdb
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Busiines\obj\Debug\netstandard2.0\DevFramwork.Northwind.Busiines.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Busiines\obj\Debug\netstandard2.0\DevFramwork.Northwind.Busiines.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Busiines\obj\Debug\netstandard2.0\DevFramwork.Northwind.Busiines.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Busiines\obj\Debug\netstandard2.0\DevFramwork.Northwind.Busiines.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Busiines\obj\Debug\netstandard2.0\DevFramwork.Northwind.Busiines.dll
+C:\Users\Administrator\source\repos\DevFramwork\DevFramwork.Northwind.Busiines\obj\Debug\netstandard2.0\DevFramwork.Northwind.Busiines.pdb

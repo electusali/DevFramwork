@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ComplexTypex\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DevFramwork.Core\DevFramwork.Core.csproj" />
+  </ItemGroup>
+
+</Project>
